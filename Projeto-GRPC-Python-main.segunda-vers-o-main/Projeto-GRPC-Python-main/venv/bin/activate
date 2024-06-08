@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/mikensonthomas/Área de trabalho/Projeto-GRPC-Python-main./Projeto-GRPC-Python-main/venv"
+VIRTUAL_ENV="/home/mikensonthomas/Área de trabalho/Projeto-GRPC-Python-main.segunda-vers-o-main./Projeto-GRPC-Python-main.segunda-vers-o-main/Projeto-GRPC-Python-main/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
